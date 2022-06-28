@@ -1,5 +1,8 @@
 ﻿line1:
 
+Console.BackgroundColor = ConsoleColor.Black;
+Console.ForegroundColor = ConsoleColor.Blue;
+
 
 
 Console.WriteLine("Enter what you need:");
