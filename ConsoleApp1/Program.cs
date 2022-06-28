@@ -71,5 +71,6 @@ if (jop == "text")
         System.IO.File.AppendAllText("Note.txt", entry + "\n");
     }
 }
+Console.ResetColor();
 
 goto line1;
