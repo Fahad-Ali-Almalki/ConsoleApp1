@@ -5,7 +5,7 @@ Console.ForegroundColor = ConsoleColor.Blue;
 
 
 
-Console.WriteLine("Enter what you need:");
+Console.WriteLine("Enter what you need: ");
 var jop = Console.ReadLine();
 if (jop== "*")
 {
