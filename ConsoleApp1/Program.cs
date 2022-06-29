@@ -46,6 +46,7 @@ if (jop == "/" )
 {
     Console.WriteLine("Enter value1");
     var value = int.Parse(Console.ReadLine());
+
     Console.WriteLine("Enter value2");
     var value2 = int.Parse(Console.ReadLine());
     var result = value2 / value2;
