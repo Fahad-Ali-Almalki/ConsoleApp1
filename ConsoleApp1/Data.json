@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Fahad",
+    "Age": 22,
+    "Email": "fahad@gmail.com",
+    "car": "cammary",
+    "modail": 2000,
+    "color": "green"
+
+  },
+  {
+    "name": "Ali",
+    "Age": 25,
+    "Email": "Ali@gmail.com",
+    "car": "Ford",
+    "modail": 2010,
+    "color": "Black"
+  },
+  {
+    "name": "Ahmed",
+    "Age": 20,
+    "Email": "Ahmed-Almalki@gmail.com",
+    "car": "mag",
+    "modail": 2022,
+    "color": "selvr"
+  }
+]
